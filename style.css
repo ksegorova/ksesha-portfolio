@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color:#FFC95F ;
+    width: 1440px;
+    height: 1064px;
+    font-family: 'Orelega One', serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.konteiner1{
+    background-color: #500712;
+    width: 1440px;
+    height: 117px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.tekst1{
+    
+}
